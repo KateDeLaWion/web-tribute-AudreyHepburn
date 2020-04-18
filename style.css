@@ -1,0 +1,41 @@
+
+
+/* html, body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}    */
+#main{
+    background-color: aqua;
+}
+#title{
+    text-align: center;
+    color: #FF1493;
+}
+#image{
+   max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: 50%;
+    height: 50%;
+}
+#img-caption{
+    text-align: center;
+    color: blueviolet;
+    font-family: monospace;
+    font-size: larger;
+}
+#tribute-info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img-div{
+    background-color: beige;
+}
+#tribute-link{
+  color: orange;
+}
+
